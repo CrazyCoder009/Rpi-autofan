@@ -1,7 +1,7 @@
 # RPI-FAN
- Fan automation on RPi with GPIO
+ Fan automation on RPi 3 b+ with GPIO Pins
  
-# Installation
+# How to Install
 ### 1. Before : <br/>
 ```
 sudo apt-get update && sudo apt-get -y upgrade
@@ -44,4 +44,4 @@ sudo chmod +x /etc/init.d/rpi-fan
  ```
 sudo update-rc.d rpi-fan defaults
  ```
-# Reboot and Enjoy
+# Reboot system and Enjoy
